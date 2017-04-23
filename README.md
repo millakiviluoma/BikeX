@@ -6,7 +6,7 @@ BikeX web page was made for Frantic, as a part of applying for a job. The scope 
 
 ### Tech
 
-* HTMl
+* HTML
 * CSS
 * JavaScript
 * jQuery
